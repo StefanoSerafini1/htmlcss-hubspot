@@ -311,3 +311,64 @@ main{
   box-shadow: 10px 10px 5px lightgrey;
   margin-bottom: 80px;
 }
+
+
+
+/* servizi hub marketing*/
+.cubo3{
+  width: 70%;
+  margin: auto;
+  background-color: #F4F9FD;
+  height: 484px;
+}
+
+.marketing-hub{
+  width: 32%;
+  display: inline-block;
+  margin: auto;
+  text-align:center;
+  border-radius: 5px;
+  border: 1px solid lightgrey;
+  box-shadow: 5px 5px 5px 5px lightgrey;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: white;
+}
+
+.immagine-marketing{
+  width: 35%;
+  height: 140px;
+  margin-bottom: 20px;
+  margin: auto;
+}
+
+.style1{
+  margin-bottom: 15px;
+}
+
+.style2{
+  margin-bottom: 30px;
+}
+
+.listafeature{
+  list-style: none;
+}
+
+.listafeature li {
+ text-align: left;
+ margin-left: 48px;
+}
+
+.fa-check-circle{
+  color: #FE775A;
+  padding-right: 10px;
+}
+
+.lontano{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.bottone-posizione{
+  margin-top: 40px;
+}
