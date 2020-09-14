@@ -141,6 +141,7 @@ header{
 
 .bottone-arancione {
   background-color: #FE775A;
+  margin-bottom: 10px;
 }
 
 .bottone-bianco{
@@ -371,6 +372,7 @@ main{
 
 .bottone-posizione{
   margin-top: 40px;
+  margin-bottom: 10px;
 }
 
 
@@ -423,5 +425,66 @@ main{
   height: 140px;
   width: 35%;
   margin-bottom: 20px;
+  margin: auto;
+}
+
+
+/*TABELLA DELLE STATISTICHE */
+
+
+
+.statistiche {
+  padding: 40px 0 80px;
+  color: #fff;
+  text-align: center;
+  margin-top: 100px;
+  background: rgb(0,164,188);
+  background: linear-gradient(60deg, rgba(0,164,188,1) 0%, rgba(0,189,165,1) 100%);
+}
+
+.statistiche .intro-title {
+  text-transform: none;
+}
+
+.statistiche .intro-description {
+  margin-bottom: 60px;
+}
+
+.statistiche-tabella-item {
+  width: 25%;
+  float: left;
+  padding: 25px 0;
+}
+
+.statistiche-tabella-item:not(:last-child) {
+  border-right: 1px solid #fff;
+}
+
+.statistiche-tabella-item img, .statistics-table-item .big-number {
+  margin-bottom: 15px;
+}
+
+.statistiche-tabella-item img {
+  height: 33px;
+}
+
+.big-number {
+  font-size: 40px;
+  font-weight: 900;
+}
+
+.statistiche-tabella-item .big-number span {
+  margin-left: 5px;
+  font-size: 25px;
+  font-weight: 400;
+  vertical-align: middle;
+}
+
+.tabella-riga:first-child {
+  border-bottom: 1px solid #fff;
+}
+
+.contenitore-statistiche{
+  width: 70%;
   margin: auto;
 }
