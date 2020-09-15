@@ -559,3 +559,73 @@ h3{
 .sectionlingue{
   margin-bottom: 20px;
 }
+
+.parte-left{
+  float: left;
+  width: 50%;
+  line-height: 70px;
+  padding-top: 13px;
+  position: relative;
+}
+
+.parte-right{
+  float: left;
+  width: 50%;
+  line-height: 70px;
+  text-align: right;
+}
+
+.distanza{
+  padding-left: 20px;
+  font-size: 16px;
+}
+
+.colore-lega{
+  color: white;
+}
+
+.color-lega2{
+  color: white;
+  padding: 0;
+  position: absolute;
+  top: 32px;
+}
+
+/* ULTIMA PARTE MAIN */
+
+.container-customer{
+  width: 70%;
+  margin: auto;
+  text-align: center;
+  padding-bottom: 80px;
+}
+
+.cta{
+  width: 70%;
+}
+
+.sinistra{
+  width: 50%;
+  float: left;
+  text-align: left;
+}
+
+.destra{
+ width: 50%;
+ float: left;
+ line-height: 70px;
+}
+
+.num{
+  padding-top: 50px;
+  padding-bottom: 20px;
+  font-size: 50px;
+}
+
+.dimensioni{
+  font-size: 16px;
+}
+
+img{
+  padding-right: 15px;
+}
