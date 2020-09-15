@@ -566,7 +566,7 @@ h3{
   line-height: 70px;
   padding-top: 13px;
   position: relative;
-  margin-bottom: 20px;
+
 }
 
 .parte-right{
@@ -629,4 +629,53 @@ h3{
 
 img{
   padding-right: 15px;
+}
+
+.list{
+  padding-top: 60px;
+}
+
+
+.sezione{
+  width: 100%;
+}
+
+.sezione-s{
+  float: left;
+  width: 50%;
+  text-align: left;
+  position: relative;
+}
+
+
+.title1{
+  text-align: left;
+  font-size: 30px;
+  padding-top: 40px;
+}
+
+.list2{
+  text-align: left;
+  font-size: 15px;
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+
+.sezione-d {
+  float: left;
+  width: 50%;
+  text-align: right;
+}
+
+.sezione-d img {
+  width: 55%;
+  padding-top: 30px;
+  }
+
+.distanza{
+  margin-top: 20px;
+}
+
+.misura{
+  font-size: 12px;
 }
