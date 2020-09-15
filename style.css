@@ -173,6 +173,7 @@ header{
  position: absolute;
  top: 110px;
 }
+
 .rettangolo{
   height: 80px;
   background-color: green;
@@ -490,7 +491,7 @@ main{
 }
 
 
-
+/* inizio footer */
 
 footer{
   width: 100%;
@@ -540,4 +541,21 @@ h3{
 
 .fa-instagram, .fa-youtube, .fa-twitter, .fa-linkedin-in, .fa-medium-m {
   padding-left: 16px;
+}
+
+/* inizio parte finale footer */
+
+.listastyle2{
+  list-style: none;
+  text-align: center;
+}
+
+.listastyle2 li{
+  display: inline-block;
+  color: white;
+  padding: 10px;
+}
+
+.sectionlingue{
+  margin-bottom: 20px;
 }
