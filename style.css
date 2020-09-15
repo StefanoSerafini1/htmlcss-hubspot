@@ -440,7 +440,7 @@ main{
   text-align: center;
   margin-top: 100px;
   background: rgb(0,164,188);
-  background: linear-gradient(60deg, rgba(0,164,188,1) 0%, rgba(0,189,165,1) 100%);
+  
 }
 
 .statistiche .intro-title {
