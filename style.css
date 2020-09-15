@@ -503,7 +503,7 @@ footer{
   width: 70%;
   margin: auto;
   padding-top: 30px;
-  height: 500px;
+  height: auto;
 }
 
 .lista{
@@ -566,6 +566,7 @@ h3{
   line-height: 70px;
   padding-top: 13px;
   position: relative;
+  margin-bottom: 20px;
 }
 
 .parte-right{
