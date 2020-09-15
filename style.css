@@ -488,3 +488,56 @@ main{
   width: 70%;
   margin: auto;
 }
+
+
+
+
+footer{
+  width: 100%;
+  background-color: #33475B;
+  height: auto;
+}
+
+.contenitore-footer{
+  width: 70%;
+  margin: auto;
+  padding-top: 30px;
+  height: 500px;
+}
+
+.lista{
+  float: left;
+  width: 25%;
+  margin-bottom: 45px;
+}
+
+.listastyle{
+  list-style: none;
+}
+
+.listastyle li{
+  padding-bottom: 20px;
+  color: white;
+}
+
+h3{
+  color: white;
+  padding-bottom: 20px;
+}
+
+.pad{
+  padding-left: 3px;
+}
+
+.bottone-free{
+  border-radius: 5px;
+  color: #33479C;
+  padding: 8px 8px;
+  min-width: 100px;
+  background-color: white;
+  border: none;
+}
+
+.fa-instagram, .fa-youtube, .fa-twitter, .fa-linkedin-in, .fa-medium-m {
+  padding-left: 16px;
+}
